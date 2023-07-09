@@ -1,0 +1,14 @@
+@use '../../../../static/scss/index.scss' as theme;
+
+.pageContainer {
+  padding-top: 5vh;
+  justify-content: center;
+  .cardListHeader {
+    color: theme.$fucia;
+    font-weight: bold;
+    justify-content: center;
+  }
+  .cardList {
+    justify-content: center;
+  }
+}

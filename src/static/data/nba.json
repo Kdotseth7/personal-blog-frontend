@@ -1,0 +1,44 @@
+{
+  "pg": [
+    {
+      "name": "stephen curry",
+      "team": "golden state warriors",
+      "points": 30,
+      "assists": 10,
+      "rebounds": 5,
+      "image": "https://sportshub.cbsistatic.com/i/r/2020/08/18/38b7e67c-3da6-4ccd-8a9d-83eacf9fee65/thumbnail/640x360/a38656016f8ff245b16b24f3a264ed19/stephen-curry.jpg"
+    },
+    {
+      "name": "kyrie irving",
+      "team": "boston celtics",
+      "points": 25,
+      "assists": 5,
+      "rebounds": 5,
+      "image": "https://www.azcentral.com/gcdn/presto/2023/03/05/PPHX/fd258788-f41a-44b5-856c-02129a8c3585-AP23064674130412.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "name": "chris paul",
+      "team": "houston rockets",
+      "points": 20,
+      "assists": 10,
+      "rebounds": 5,
+      "image": "https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Paul_Chris_phx_230202.jpg"
+    },
+    {
+      "name": "russell westbrook",
+      "team": "okc thunder",
+      "points": 20,
+      "assists": 15,
+      "rebounds": 15,
+      "image": "https://s.yimg.com/ny/api/res/1.2/bEWAXrRB4euqAKw9C3zc4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ2Nw--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/094529c0-1626-11ee-bfec-79dcffd0a387"
+    },
+    {
+      "name": "john wall",
+      "team": "washington wizards",
+      "points": 18,
+      "assists": 20,
+      "rebounds": 5,
+      "image": "https://thehoopdoctors.com/wp-content/uploads/2014/05/wall_0.jpg"
+    }
+  ]
+}
